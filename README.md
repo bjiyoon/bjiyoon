@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:0072FF,100:001F45&height=300&section=header&text=🐳JUNIVERSE🐳%20&fontSize=80&animation=fadeIn&fontColor=f1f1f1)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:0072FF,100:001F45&height=300&section=header&text=🐳JUNIVERSE🐳%20&fontSize=80&animation=fadeIn&fontColor=f1f1f1&rotate=-5)
 <!--
 **bjiyoon/bjiyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 
 <h2><b>💻 Tools</b></h2>
 <div>
-<img src="https://img.shields.io/badge/VScode-0078D4?style=flat&logo=Visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=61AD58"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-333333.svg?style=flat&logo=intellij-idea&logoColor=F23673"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252"> <img src="https://img.shields.io/badge/Jupyter-FCFCFC?style=flat&logo=Jupyter&color=FCFCFC">
+<img src="https://img.shields.io/badge/VSCode-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=61AD58"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-333333.svg?style=flat&logo=intellij-idea&logoColor=F23673"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252"> <img src="https://img.shields.io/badge/Jupyter-FCFCFC?style=flat&logo=Jupyter&color=FCFCFC">
 </div>
 
 <h2><b>✨ ETC</b></h2>
 <div>
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-F5F5F5?style=flat&logo=jira&logoColor=185EF5"> 
 </div>
+
