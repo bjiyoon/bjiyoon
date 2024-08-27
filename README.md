@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JUNIVERSE%20&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=🐳JUNIVERSE🐳%20&fontSize=90&animation=fadeIn)
 <!--
 **bjiyoon/bjiyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
