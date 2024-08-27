@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p></p>
 <h2><b>🛠️ Tech-stack</b></h2>
 <div>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-F5F5F5?style=flat&logo=Pytorch&logoColor=D42E20"> <img src="https://img.shields.io/badge/tensorflow-F5F5F5?style=flat&logo=Tensorflow&logoColor=F08650"> <img src="https://img.shields.io/badge/OpenCV-0023F5?style=flat&logo=OpenCV&logoColor=75FA8D"> <img src="https://img.shields.io/badge/NumPy-FCFCFC?style=flat&logo=NumPy&logoColor=3282F6">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/npm-F5F5F5?style=flat&logo=npm&logoColor=DE1A30"> <img src="https://img.shields.io/badge/Pytorch-F5F5F5?style=flat&logo=Pytorch&logoColor=D42E20"> <img src="https://img.shields.io/badge/tensorflow-F5F5F5?style=flat&logo=Tensorflow&logoColor=F08650"> <img src="https://img.shields.io/badge/OpenCV-0023F5?style=flat&logo=OpenCV&logoColor=75FA8D"> <img src="https://img.shields.io/badge/NumPy-FCFCFC?style=flat&logo=NumPy&logoColor=3282F6">
 </div>
 
 <h2><b>🗂️ Database</b></h2>
