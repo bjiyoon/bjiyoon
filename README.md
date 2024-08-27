@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p></p>
 <h2><b>🛠️Tech-stack</b></h2>
 <div>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-F5F5F5?style=flat&logo=Pytorch&logoColor=D42E20"> <img src="https://img.shields.io/badge/tensorflow-F5F5F5?style=flat&logo=Tensorflow&logoColor=F08650"> <img src="https://img.shields.io/badge/OpenCV-0023F5?style=flat&logo=OpenCV&logoColor=75FA8D"> <img src="https://img.shields.io/badge/NumPy-FCFCFC?style=flat&logo=NumPy&logoColor=3282F6">
 </div>
 
 <h2><b>🗂️Database</b></h2>
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-3180F2?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F5F5F5?style=flat&logo=Oracle&logoColor=D42E20">
 </div>
 
-<h2><b>💻IDE</b></h2>
+<h2><b>💻Tools</b></h2>
 <div>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=61AD58"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252">
+<img src="https://img.shields.io/badge/VScode-0078D4?style=flat&logo=Visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=61AD58"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252"> <img src="https://img.shields.io/badge/Jupyter-FCFCFC?style=flat&logo=Jupyter&color=FCFCFC">
 </div>
 
 <h2><b>✨ETC</b></h2>
