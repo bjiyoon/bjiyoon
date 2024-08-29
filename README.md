@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <p></p>
 <h2><b>💫 Lang</b></h2>
 <div>
-<img src="https://img.shields.io/badge/JavaScript-FCFCFC?style=flat&logo=JavaScript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Python-F2D950?style=flat&logo=python&logoColor=16417C"> <img src="https://img.shields.io/badge/HTML-BA281D?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-F5F5F5?&style=flat&logo=css3&logoColor=185EF5"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-FCFCFC?style=flat&logo=JavaScript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Python-F2D950?style=flat&logo=python&logoColor=16417C"> <img src="https://img.shields.io/badge/HTML-BA281D?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-F5F5F5?&style=flat&logo=css3&logoColor=185EF5"> <img src="https://img.shields.io/badge/Java-4E7C99?style=flat&logo=openjdk&logoColor=E1842C">
 </div>
 <p></p>
 <h2><b>🛠️ Tech-stack</b></h2>
 <div>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/npm-F5F5F5?style=flat&logo=npm&logoColor=DE1A30"> <img src="https://img.shields.io/badge/Pytorch-F5F5F5?style=flat&logo=Pytorch&logoColor=D42E20"> <img src="https://img.shields.io/badge/tensorflow-F5F5F5?style=flat&logo=Tensorflow&logoColor=F08650"> <img src="https://img.shields.io/badge/OpenCV-0023F5?style=flat&logo=OpenCV&logoColor=75FA8D"> <img src="https://img.shields.io/badge/NumPy-FCFCFC?style=flat&logo=NumPy&logoColor=3282F6">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/npm-F5F5F5?style=flat&logo=npm&logoColor=DE1A30"> <img src="https://img.shields.io/badge/Spring-6CB52D?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-F5F5F5?style=flat&logo=Pytorch&logoColor=D42E20"> <img src="https://img.shields.io/badge/tensorflow-F5F5F5?style=flat&logo=Tensorflow&logoColor=F08650"> <img src="https://img.shields.io/badge/OpenCV-0023F5?style=flat&logo=OpenCV&logoColor=75FA8D"> <img src="https://img.shields.io/badge/NumPy-FCFCFC?style=flat&logo=NumPy&logoColor=3282F6">
 </div>
 
 <h2><b>🗂️ Database</b></h2>
