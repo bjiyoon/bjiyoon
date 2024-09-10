@@ -23,7 +23,8 @@
     
   <h2><b>📝 Portfolio</b></h2>
   <div>
-    <a href="https://www.notion.so/c9eb30dc73764b3686b1b9502be23215" target="_blank"><img src="https://img.shields.io/badge/Notion-FCFCFC?style=flat&logo=Notion&logoColor=black"></a>
+    <a href="http://eletech.iptime.org:3000" target="_blank"><img src="https://img.shields.io/badge/WebSite-3180F2?style=flat&logo=Notion&logoColor=white"></a>   
+      <a href="https://www.notion.so/c9eb30dc73764b3686b1b9502be23215" target="_blank"><img src="https://img.shields.io/badge/Notion-FCFCFC?style=flat&logo=Notion&logoColor=black"></a>
   </div>
   <p></p>
   <h2><b>💫 Lang</b></h2>
